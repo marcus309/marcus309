@@ -2,10 +2,9 @@
 
 ## 📊 Estatísticas !
 
-<p float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=marcus309&show_icons=true&theme=dracula" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcus309&layout=donut" width="400" />
-</p>
+| ![Marcus GitHub stats](https://github-readme-stats.vercel.app/api?username=marcus309&show_icons=true&theme=dracula) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcus309&layout=donut)](https://github.com/marcus309/github-readme-stats) |
+|---|---|
+
 
 
 ## Tecnologias que eu uso no meu dia
