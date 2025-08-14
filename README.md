@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Marcus Vinicius 👋
 
 ## 👤 Sobre:
-Estou cursando o primeiro semestre de Análise e Desenvolvimento de Sistemas e sigo me desenvolvendo na área de Tecnologia da Informação. Tenho conhecimentos em HTML, CSS, Java, JavaScript e montagem de computadores. Busco uma oportunidade para aplicar meus conhecimentos na prática, adquirir experiência e continuar evoluindo profissionalmente.
+Estou cursando o segundo semestre de Análise e Desenvolvimento de Sistemas e sigo me desenvolvendo na área de Tecnologia da Informação. Tenho conhecimentos em HTML, CSS, Java, JavaScript e montagem de computadores. Busco uma oportunidade para aplicar meus conhecimentos na prática, adquirir experiência e continuar evoluindo profissionalmente.
 
 ## 📊 Estatísticas !
 
