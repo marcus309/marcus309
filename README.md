@@ -1,5 +1,8 @@
 ## Olá! Eu sou o Marcus Vinicius 👋
 
+## 👤 Sobre:
+Estou cursando o primeiro semestre de Análise e Desenvolvimento de Sistemas e sigo me desenvolvendo na área de Tecnologia da Informação. Tenho conhecimentos em HTML, CSS, Java, JavaScript e montagem de computadores. Busco uma oportunidade para aplicar meus conhecimentos na prática, adquirir experiência e continuar evoluindo profissionalmente.
+
 ## 📊 Estatísticas !
 
 | ![Marcus GitHub stats](https://github-readme-stats.vercel.app/api?username=marcus309&show_icons=true&theme=dracula) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcus309&layout=donut&theme=dracula)](https://github.com/marcus309/github-readme-stats) |
