@@ -2,8 +2,9 @@
 
 ## 📊 Estatísticas !
 
-| ![Marcus GitHub stats](https://github-readme-stats.vercel.app/api?username=marcus309&show_icons=true&theme=dracula) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcus309&layout=dracula)](https://github.com/marcus309/github-readme-stats) |
+| ![Marcus GitHub stats](https://github-readme-stats.vercel.app/api?username=marcus309&show_icons=true&theme=dracula) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcus309&layout=donut&theme=dracula)](https://github.com/marcus309/github-readme-stats) |
 |---|---|
+
 
 
 
