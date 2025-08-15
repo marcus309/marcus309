@@ -1,5 +1,13 @@
 ## Olá! Eu sou o Marcus Vinicius 👋
 
+## Informações ℹ️
+🎓 Atualmente cursando o 2º semestre de Análise e Desenvolvimento de Sistemas  
+
+📗 Estudando Angular, TypeScript, Java, MySql e JavaScript  
+
+📩 Contato: marcus.timao6@gmail.com
+
+
 ## 👤 Sobre:
 Estou cursando o segundo semestre de Análise e Desenvolvimento de Sistemas e sigo me desenvolvendo na área de Tecnologia da Informação. Tenho conhecimentos em HTML, CSS, Java, JavaScript e montagem de computadores. Busco uma oportunidade para aplicar meus conhecimentos na prática, adquirir experiência e continuar evoluindo profissionalmente.
 
