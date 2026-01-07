@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Marcus Vinicius 👋
 
 ## Informações ℹ️
-🎓 Atualmente cursando o 2º semestre de Análise e Desenvolvimento de Sistemas  
+🎓 Atualmente cursando o 3º semestre de Análise e Desenvolvimento de Sistemas  
 
 📗 Estudando Angular, TypeScript, Java, MySql e JavaScript  
 
